@@ -1,0 +1,21 @@
+body {
+	background-image: url("bg1.jpg");
+	background-size: cover;
+	
+}
+a{
+	color: yellow;
+	text-align: center;
+}
+ a:visited {
+  color: red;
+}
+ a:hover{
+  color: green;
+}
+.l {
+	padding: 40px;
+	
+}
+
+
